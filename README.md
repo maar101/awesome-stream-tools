@@ -23,7 +23,7 @@
 
 ## Graphics and Overlays
 
-- [StreamLadder](https://streamladder.io/): A tool that lets you convert your Twitch clips to TikTok, Reels and YouTube Shorts
+- [StreamLadder](https://streamladder.com/): A tool that lets you convert your Twitch clips to TikTok, Reels and YouTube Shorts
 - [Streamlabs OBS](https://streamlabs.com/streamlabs-obs): A version of OBS Studio with integrated overlays and alerts from Streamlabs.
 - [Nerd or Die](https://nerdordie.com/): A website that offers pre-made and customizable graphics, overlays, and alerts for Twitch streamers.
 - [OWN3D.tv](https://own3d.tv/): Another website that offers pre-made and customizable graphics, overlays, and alerts for Twitch streamers.
